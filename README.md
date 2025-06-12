@@ -1,7 +1,10 @@
 ## 👋 About Me
 
 An aspiring researcher focused on Artificial Intelligence and Robotics.
-My main goal is to explore intelligent systems, develop algorithms for autonomous agents, and contribute to solving real-world research challenges through code and experimentation. Beyond building solutions, I'm passionate about making scientific knowledge more understandable and accessible.
+
+My main goal is to explore intelligent systems, develop algorithms for autonomous agents, and contribute to solving real-world research challenges through code and experimentation.
+
+Beyond building solutions, I'm passionate about making scientific knowledge more understandable and accessible.
 
 ## 🎯 What Drives Me
 
